@@ -14,7 +14,7 @@ Sass is a systematically awesome stylesheet. This is evident in the role that sa
 10. How to manipulate operators
 
 ## Project requirement
-This allows us to use only Vim, Vi, emacs editors. Failure to adhere to this requirement will cause the checker to pass the task and throw a permission denied case.
+This allows us to use only Vim, Vi, emacs editors. Failure to adhere to this requirement will cause the checker to pass the task and throw a permission denied case. This project requires that you have read the resources on sass/scss documentation, and have installed sass successfully. If this has been done, then you can write the codes and compile them into css which can be understood by the browser.
 
 ## Author
 Emmanuel Ebuka Ugoh
